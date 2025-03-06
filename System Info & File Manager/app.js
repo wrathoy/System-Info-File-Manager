@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const os = require("os");
-const { info } = require("console");
+
 
 const ops = os.platform
 const arch = os.arch()
